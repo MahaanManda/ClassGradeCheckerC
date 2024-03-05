@@ -28,7 +28,7 @@ void printStudentsWithHighestScore(StudentType student[], int size, int highest)
 void printStudentNames(StudentType student[], int size);
 
 int main() {
-    int size = 4;
+    int size = 20;
     StudentType student[size];
     int highest = 0; // Move the declaration of highest here
 
